@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{527154DE-2822-5C7E-6E41-064F5F2B1A31}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Procedure_TwoTuple.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Cube_Script.cs" Line="13" Column="2" />
+      <File FileName="Assets/Scripts/Controller.cs" Line="14" Column="23" />
+      <File FileName="Assets/Scripts/Procedure_FourTuple.cs" Line="12" Column="18" />
+      <File FileName="Assets/Scripts/Procedure_TwoTuple.cs" Line="5" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
